@@ -1,6 +1,7 @@
 Hello!!!!!
+<<<<<<< HEAD
 hiiiiiiii
 sjdhsuafj
 sdhedhudhdmk
 sjhdggsfhjfds
-ahhsdkfkjsalid!
+ahhsdkfkjsalid
