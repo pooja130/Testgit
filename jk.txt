@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 Hello!!!!!
 hiiiiiiii
 sjdhsuafj
 sdhedhudhdmk
 sjhdggsfhjfds
 ahhsdkfkjsalid!
+=======
+Hello this is my first text file.
+>>>>>>> Stashed changes
